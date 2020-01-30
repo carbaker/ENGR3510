@@ -81,6 +81,7 @@
     \field{journaltitle}{National Research Council Commissioned Paper}
     \field{year}{2016}
   \endentry
+<<<<<<< HEAD
 
   \entry{J.EllisBell2015}{article}{}
     \name{author}{1}{}{%
@@ -107,5 +108,7 @@
     \endverb
     \field{year}{2015}
   \endentry
+=======
+>>>>>>> origin/Davee
 \enddatalist
 \endinput
