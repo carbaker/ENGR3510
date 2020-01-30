@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.12.4)  28 JAN 2020 20:14
 =======
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.1.11)  30 JAN 2020 08:37
@@ -7,10 +8,14 @@ This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preload
 =======
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300) (preloaded format=pdflatex 2018.1.23)  23 JAN 2020 09:03
 >>>>>>> Burnell
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.11)  30 JAN 2020 08:39
+>>>>>>> Leman
 entering extended mode
 **./AnnotatedBibliography.tex
 (AnnotatedBibliography.tex
 LaTeX2e <2017-04-15>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Babel <3.9t> and hyphenation patterns for 75 language(s) loaded.
@@ -29,6 +34,12 @@ Babel <3.9t> and hyphenation patterns for 76 language(s) loaded.
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
 >>>>>>> Burnell
+=======
+Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+>>>>>>> Leman
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -45,6 +56,9 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Leman
 ("C:\Program Files\MiKTeX 2.9\tex\latex\todonotes\todonotes.sty"
 Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
 Package: todonotes 2018/11/22
@@ -68,6 +82,7 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+<<<<<<< HEAD
 =======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\todonotes\todonot
 es.sty"
@@ -125,10 +140,13 @@ Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
 >>>>>>> Burnell
+=======
+>>>>>>> Leman
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
@@ -162,6 +180,10 @@ Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count88
+=======
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
+>>>>>>> Leman
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
@@ -175,10 +197,14 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Leman
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex"
+<<<<<<< HEAD
 =======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer
 \tikz.sty"
@@ -196,12 +222,17 @@ gfutil-common.tex"
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.te
 x"
 >>>>>>> Burnell
+=======
+>>>>>>> Leman
 \pgfutil@everybye=\toks16
 \pgfutil@tempdima=\dimen103
 \pgfutil@tempdimb=\dimen104
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Leman
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.te
 x")) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def"
 \pgfutil@abb=\box26
@@ -209,6 +240,7 @@ x")) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def"
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
+<<<<<<< HEAD
 =======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
 gfutil-common-lists.tex"))
@@ -222,10 +254,13 @@ Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
 gfrcs.code.tex"
 >>>>>>> origin/Davee
+=======
+>>>>>>> Leman
 Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
 ))
 Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
@@ -233,11 +268,20 @@ Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+=======
+("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+>>>>>>> Leman
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+<<<<<<< HEAD
 =======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pg
 fcore.sty"
@@ -281,6 +325,8 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
 >>>>>>> Burnell
+=======
+>>>>>>> Leman
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
@@ -290,6 +336,9 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 )
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Leman
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex"
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
@@ -300,6 +349,7 @@ Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.te
 x"
+<<<<<<< HEAD
 =======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\p
 gfsys.sty"
@@ -328,6 +378,8 @@ Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.c
 ode.tex"
 >>>>>>> Burnell
+=======
+>>>>>>> Leman
 \pgfkeys@tmptoks=\toks19
 ))
 \pgf@x=\dimen107
@@ -340,6 +392,7 @@ ode.tex"
 \pgf@yc=\dimen114
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
+<<<<<<< HEAD
 \c@pgf@counta=\count89
 \c@pgf@countb=\count90
 \c@pgf@countc=\count91
@@ -359,12 +412,25 @@ ode.tex"
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
 >>>>>>> Burnell
+=======
+\c@pgf@counta=\count88
+\c@pgf@countb=\count89
+\c@pgf@countc=\count90
+\c@pgf@countd=\count91
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+ ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
+>>>>>>> Leman
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Leman
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def"
 File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
 
@@ -374,6 +440,7 @@ File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )))
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.t
 ex"
+<<<<<<< HEAD
 =======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
 \pgfsys-pdftex.def"
@@ -404,6 +471,12 @@ File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
 )
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count92
+\pgfsyssoftpath@bigbuffer@items=\count93
+)
+>>>>>>> Leman
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.t
 ex"
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
@@ -413,6 +486,7 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex")
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
+<<<<<<< HEAD
 =======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
 \pgfsysprotocol.code.tex"
@@ -447,6 +521,10 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 >>>>>>> Burnell
 \pgfmath@dimen=\dimen115
 \pgfmath@count=\count95
+=======
+\pgfmath@dimen=\dimen115
+\pgfmath@count=\count94
+>>>>>>> Leman
 \pgfmath@box=\box27
 \pgfmath@toks=\toks23
 \pgfmath@stack@operand=\toks24
@@ -454,6 +532,9 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 )
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Leman
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex"
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.
 tex")
@@ -472,6 +553,7 @@ ex")
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarit
 hmetics.code.tex")))
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
+<<<<<<< HEAD
 \c@pgfmathroundto@lastzeros=\count96
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
@@ -527,6 +609,12 @@ erarithmetics.code.tex")))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.co
 de.tex"
 >>>>>>> Burnell
+=======
+\c@pgfmathroundto@lastzeros=\count95
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+"
+>>>>>>> Leman
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@picminx=\dimen116
 \pgf@picmaxx=\dimen117
@@ -545,6 +633,7 @@ File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 )
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.c
 ode.tex"
 =======
@@ -555,10 +644,15 @@ pgfcorepathconstruct.code.tex"
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconst
 ruct.code.tex"
 >>>>>>> Burnell
+=======
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.c
+ode.tex"
+>>>>>>> Leman
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
 \pgf@path@lastx=\dimen130
 \pgf@path@lasty=\dimen131
 )
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.
@@ -571,10 +665,15 @@ pgfcorepathusage.code.tex"
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage
 .code.tex"
 >>>>>>> Burnell
+=======
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.
+tex"
+>>>>>>> Leman
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 \pgf@shorten@end@additional=\dimen132
 \pgf@shorten@start@additional=\dimen133
 )
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
@@ -587,14 +686,23 @@ pgfcorescopes.code.tex"
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.co
 de.tex"
 >>>>>>> Burnell
+=======
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+"
+>>>>>>> Leman
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box28
 \pgf@hbox=\box29
 \pgf@layerbox@main=\box30
+<<<<<<< HEAD
 \pgf@picture@serial@count=\count97
 )
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+\pgf@picture@serial@count=\count96
+)
+>>>>>>> Leman
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.co
 de.tex"
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
@@ -602,6 +710,7 @@ File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
 )
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations
 .code.tex"
+<<<<<<< HEAD
 =======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcoregraphicstate.code.tex"
@@ -620,6 +729,8 @@ File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransform
 ations.code.tex"
 >>>>>>> Burnell
+=======
+>>>>>>> Leman
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
 \pgf@pt@x=\dimen135
 \pgf@pt@y=\dimen136
@@ -627,6 +738,9 @@ File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
 )
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Leman
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex"
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
@@ -646,7 +760,11 @@ File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen139
+<<<<<<< HEAD
 \pgf@sys@shading@range@num=\count98
+=======
+\pgf@sys@shading@range@num=\count97
+>>>>>>> Leman
 ) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.te
 x"
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
@@ -676,6 +794,7 @@ File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.
 sty"
+<<<<<<< HEAD
 =======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcorequick.code.tex"
@@ -789,12 +908,17 @@ File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version
 -0-65.sty"
 >>>>>>> Burnell
+=======
+>>>>>>> Leman
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
 \pgf@nodesepstart=\dimen140
 \pgf@nodesepend=\dimen141
 )
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Leman
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.
 sty"
 Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
@@ -807,6 +931,7 @@ Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex")
+<<<<<<< HEAD
 =======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility
 \pgfcomp-version-1-18.sty"
@@ -844,6 +969,8 @@ Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex")
 >>>>>>> Burnell
+=======
+>>>>>>> Leman
 \pgffor@iter=\dimen142
 \pgffor@skip=\dimen143
 \pgffor@stack=\toks26
@@ -851,11 +978,15 @@ Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 ))
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Leman
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex"
 Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.
 code.tex"
+<<<<<<< HEAD
 =======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
 er\tikz\tikz.code.tex"
@@ -874,6 +1005,10 @@ dlers.code.tex"
 >>>>>>> Burnell
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \pgf@plot@mark@count=\count99
+=======
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count98
+>>>>>>> Leman
 \pgfplotmarksize=\dimen144
 )
 \tikz@lastx=\dimen145
@@ -886,6 +1021,7 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikz@figbox@bg=\box34
 \tikz@tempbox=\box35
 \tikz@tempbox@bg=\box36
+<<<<<<< HEAD
 \tikztreelevel=\count100
 \tikznumberofchildren=\count101
 \tikznumberofcurrentchild=\count102
@@ -911,6 +1047,21 @@ File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+\tikztreelevel=\count99
+\tikznumberofchildren=\count100
+\tikznumberofcurrentchild=\count101
+\tikz@fig@count=\count102
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count103
+\pgfmatrixcurrentcolumn=\count104
+\pgf@matrix@numberofcolumns=\count105
+)
+\tikz@expandcount=\count106
+
+>>>>>>> Leman
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
 librarytopaths.code.tex"
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
@@ -931,6 +1082,7 @@ File: tikzlibraryfadings.code.tex 2009/11/15 v3.0.1a (rcs-revision 1.2)
 tex"
 File: pgflibraryfadings.code.tex 2008/02/07 v3.0.1a (rcs-revision 1.3)
 ))) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+<<<<<<< HEAD
 =======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
 er\tikz\libraries\tikzlibrarytopaths.code.tex"
@@ -968,12 +1120,18 @@ File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count108
 \calc@Bcount=\count109
+=======
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count107
+\calc@Bcount=\count108
+>>>>>>> Leman
 \calc@Adimen=\dimen151
 \calc@Bdimen=\dimen152
 \calc@Askip=\skip43
 \calc@Bskip=\skip44
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
+<<<<<<< HEAD
 \calc@Ccount=\count110
 \calc@Cskip=\skip45
 )
@@ -981,6 +1139,13 @@ LaTeX Info: Redefining \addtolength on input line 81.
 )
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+\calc@Ccount=\count109
+\calc@Cskip=\skip45
+)
+\c@@todonotes@numberoftodonotes=\count110
+)
+>>>>>>> Leman
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
@@ -992,6 +1157,7 @@ Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
 ("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+<<<<<<< HEAD
 =======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry
 .sty"
@@ -1027,6 +1193,13 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@cnth=\count112
 \Gm@cntv=\count113
 \c@Gm@tempcnt=\count114
+=======
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count111
+\Gm@cntv=\count112
+\c@Gm@tempcnt=\count113
+>>>>>>> Leman
 \Gm@bindingoffset=\dimen153
 \Gm@wd@mp=\dimen154
 \Gm@odd@mp=\dimen155
@@ -1039,6 +1212,9 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Leman
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty"
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
@@ -1050,6 +1226,7 @@ Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
 Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
 
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
 =======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry
@@ -1086,12 +1263,27 @@ Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
+=======
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+>>>>>>> Leman
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Leman
 
 LaTeX Warning: You have requested, on input line 37, version
                `2018/01/30' of package pdftexcmds,
@@ -1100,9 +1292,15 @@ LaTeX Warning: You have requested, on input line 37, version
                is available.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
 Package: etoolbox 2017/11/22 v2.5 e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count115
+=======
+("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+Package: etoolbox 2017/11/22 v2.5 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count114
+>>>>>>> Leman
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
@@ -1111,6 +1309,7 @@ Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+<<<<<<< HEAD
 =======
 
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox
@@ -1142,6 +1341,8 @@ Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
 >>>>>>> Burnell
+=======
+>>>>>>> Leman
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -1150,14 +1351,21 @@ Package etexcmds Info: Could not find \expanded.
 )))
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex\latex\logreq\logreq.sty"
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count116
+=======
+("C:\Program Files\MiKTeX 2.9\tex\latex\logreq\logreq.sty"
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count115
+>>>>>>> Leman
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\logreq\logreq.def"
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+<<<<<<< HEAD
 =======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\logreq\logreq.sty
 "
@@ -1260,6 +1468,52 @@ Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 \blx@entrysetcounter=\count157
 =======
 >>>>>>> Burnell
+=======
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count116
+\c@listtotal=\count117
+\c@listcount=\count118
+\c@liststart=\count119
+\c@liststop=\count120
+\c@citecount=\count121
+\c@citetotal=\count122
+\c@multicitecount=\count123
+\c@multicitetotal=\count124
+\c@instcount=\count125
+\c@maxnames=\count126
+\c@minnames=\count127
+\c@maxitems=\count128
+\c@minitems=\count129
+\c@citecounter=\count130
+\c@maxcitecounter=\count131
+\c@savedcitecounter=\count132
+\c@uniquelist=\count133
+\c@uniquename=\count134
+\c@refsection=\count135
+\c@refsegment=\count136
+\c@maxextratitle=\count137
+\c@maxextratitleyear=\count138
+\c@maxextraname=\count139
+\c@maxextradate=\count140
+\c@maxextraalpha=\count141
+\c@abbrvpenalty=\count142
+\c@highnamepenalty=\count143
+\c@lownamepenalty=\count144
+\c@maxparens=\count145
+\c@parenlevel=\count146
+\blx@tempcnta=\count147
+\blx@tempcntb=\count148
+\blx@tempcntc=\count149
+\blx@maxsection=\count150
+\blx@maxsegment@0=\count151
+\blx@notetype=\count152
+\blx@parenlevel@text=\count153
+\blx@parenlevel@foot=\count154
+\blx@sectionciteorder@0=\count155
+\blx@entrysetcounter=\count156
+>>>>>>> Leman
 \labelnumberwidth=\skip46
 \labelalphawidth=\skip47
 \biblabelsep=\skip48
@@ -1269,6 +1523,7 @@ Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 \bibparsep=\skip52
 \bibhang=\skip53
 \blx@bcfin=\read2
+<<<<<<< HEAD
 <<<<<<< HEAD
 \blx@bcfout=\write4
 \blx@langwohyphens=\language76
@@ -1358,13 +1613,23 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@savedpageref=\count294
 =======
 \blx@bcfout=\write5
+=======
+\blx@bcfout=\write4
+\blx@langwohyphens=\language76
+>>>>>>> Leman
 \c@mincomprange=\count157
 \c@maxcomprange=\count158
 \c@mincompwidth=\count159
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
+<<<<<<< HEAD
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\blx-dm.def")
+=======
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\blx-dm.def"
+File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+>>>>>>> Leman
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@afterword=\count160
@@ -1431,9 +1696,16 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@savedpublisher=\count287
 \c@language=\count288
 \c@savedlanguage=\count289
+<<<<<<< HEAD
 \c@pageref=\count290
 \c@savedpageref=\count291
 >>>>>>> Burnell
+=======
+\c@origlanguage=\count290
+\c@savedoriglanguage=\count291
+\c@pageref=\count292
+\c@savedpageref=\count293
+>>>>>>> Leman
 \shorthandwidth=\skip54
 \shortjournalwidth=\skip55
 \shortserieswidth=\skip56
@@ -1441,6 +1713,9 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \shortauthorwidth=\skip58
 \shorteditorwidth=\skip59
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Leman
 \locallabelnumberwidth=\skip60
 \locallabelalphawidth=\skip61
 \localshorthandwidth=\skip62
@@ -1452,6 +1727,7 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\blx-compat.def"
 =======
@@ -1466,10 +1742,15 @@ Package biblatex Info: ... file 'blx-compat.def' found.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\blx-compat.def"
 File: blx-compat.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
 >>>>>>> Burnell
+=======
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\blx-compat.def"
+File: blx-compat.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+>>>>>>> Leman
 )
 Package biblatex Info: Trying to load BibTeX backend compatibility...
 Package biblatex Info: ... file 'blx-bibtex.def' found.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\blx-bibtex.def"
@@ -1482,6 +1763,10 @@ File: blx-bibtex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\blx-bibtex.def"
 File: blx-bibtex.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
 >>>>>>> Burnell
+=======
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\blx-bibtex.def"
+File: blx-bibtex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+>>>>>>> Leman
 
 
 Package biblatex Warning: Using fall-back BibTeX(8) backend:
@@ -1490,6 +1775,7 @@ Package biblatex Warning: Using fall-back BibTeX(8) backend:
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
  ("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.def"
@@ -1507,10 +1793,23 @@ File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
 \c@biburlnumpenalty=\count300
 \c@biburlucpenalty=\count301
 \c@biburllcpenalty=\count302
+=======
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.def"
+File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+\c@textcitecount=\count294
+\c@textcitetotal=\count295
+\c@textcitemaxnames=\count296
+\c@biburlbigbreakpenalty=\count297
+\c@biburlbreakpenalty=\count298
+\c@biburlnumpenalty=\count299
+\c@biburlucpenalty=\count300
+\c@biburllcpenalty=\count301
+>>>>>>> Leman
 \biburlbigskip=\muskip11
 \biburlnumskip=\muskip12
 \biburlucskip=\muskip13
 \biburllcskip=\muskip14
+<<<<<<< HEAD
 \c@smartand=\count303
 =======
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex.def"
@@ -1523,10 +1822,14 @@ File: biblatex.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
 \c@biburllcpenalty=\count297
 \c@smartand=\count298
 >>>>>>> Burnell
+=======
+\c@smartand=\count302
+>>>>>>> Leman
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\bbx\numeric.bbx"
@@ -1534,10 +1837,14 @@ Package biblatex Info: ... file 'numeric.bbx' found.
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bbx\nume
 ric.bbx"
 >>>>>>> origin/Davee
+=======
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\bbx\numeric.bbx"
+>>>>>>> Leman
 File: numeric.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\bbx\standard.bbx"
 =======
@@ -1558,10 +1865,17 @@ File: standard.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
 \c@bbx:relatedcount=\count299
 \c@bbx:relatedtotal=\count300
 >>>>>>> Burnell
+=======
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\bbx\standard.bbx"
+File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count303
+\c@bbx:relatedtotal=\count304
+>>>>>>> Leman
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\cbx\numeric.cbx"
@@ -1574,6 +1888,10 @@ File: numeric.cbx 2019/12/01 v3.14 biblatex citation style (PK/MW)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\cbx\numeric.cbx"
 File: numeric.cbx 2016/12/05 v3.7 biblatex citation style (PK/JW/AB)
 >>>>>>> Burnell
+=======
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\cbx\numeric.cbx"
+File: numeric.cbx 2019/12/01 v3.14 biblatex citation style (PK/MW)
+>>>>>>> Leman
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -1589,6 +1907,7 @@ Package biblatex Info: Redefining '\smartcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.cfg"
@@ -1618,6 +1937,15 @@ File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 
 No file AnnotatedBibliography.aux.
 >>>>>>> Burnell
+=======
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.cfg"
+File: biblatex.cfg 
+))
+\@quotelevel=\count305
+\@quotereset=\count306
+
+(AnnotatedBibliography.aux)
+>>>>>>> Leman
 \openout1 = `AnnotatedBibliography.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
@@ -1634,11 +1962,15 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 8.
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Leman
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+<<<<<<< HEAD
 =======
  (AnnotatedBibliography.aux)
 \openout1 = `AnnotatedBibliography.aux'.
@@ -1676,6 +2008,20 @@ kii"
 \makeMPintoPDFobject=\count313
 \everyMPtoPDFconversion=\toks30
 <<<<<<< HEAD
+=======
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count307
+\scratchdimen=\dimen161
+\scratchbox=\box37
+\nofMPsegments=\count308
+\nofMParguments=\count309
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count310
+\MPscratchDim=\dimen162
+\MPnumerator=\count311
+\makeMPintoPDFobject=\count312
+\everyMPtoPDFconversion=\toks30
+>>>>>>> Leman
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1683,6 +2029,7 @@ Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+<<<<<<< HEAD
 =======
 )
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
@@ -1721,11 +2068,14 @@ Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
 >>>>>>> Burnell
+=======
+>>>>>>> Leman
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 38.
 Package grfext Info: Graphics extension search list:
+<<<<<<< HEAD
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
@@ -1736,10 +2086,18 @@ ABD: EveryShipout initializing macros
 =======
 ) ABD: EveryShipout initializing macros
 >>>>>>> origin/Davee
+=======
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+ABD: EveryShipout initializing macros
+>>>>>>> Leman
 
 Package todonotes Warning: The length marginparwidth is less than 2cm and will 
 most likely cause issues with the appearance of inserted todonotes. The issue c
 an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
+<<<<<<< HEAD
 <<<<<<< HEAD
 loading the todonotes package. on input line 8.
 =======
@@ -1750,6 +2108,10 @@ loading the todonotes package. on input line 10.
 )
 ABD: EveryShipout initializing macros
 >>>>>>> Burnell
+=======
+loading the todonotes package. on input line 8.
+
+>>>>>>> Leman
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1785,6 +2147,7 @@ ABD: EveryShipout initializing macros
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 <<<<<<< HEAD
@@ -1798,6 +2161,13 @@ File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
 )
 =======
 >>>>>>> Burnell
+=======
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\lbx\english.lbx"
+File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+>>>>>>> Leman
 Package biblatex Info: No input encoding detected.
 (biblatex)             Assuming 'ascii'.
 Package biblatex Info: Automatic encoding selection.
@@ -1805,6 +2175,7 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Input encoding 'ascii' specified.
 Package biblatex Info: Data encoding 'ascii' specified.
 (biblatex)             No need to reencode data.
+<<<<<<< HEAD
 <<<<<<< HEAD
 \openout4 = `AnnotatedBibliography-blx.bib'.
 
@@ -1820,6 +2191,14 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'AnnotatedBibliography.bbl' not found.
 No file AnnotatedBibliography.bbl.
 >>>>>>> Burnell
+=======
+\openout4 = `AnnotatedBibliography-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'AnnotatedBibliography.bbl' not found.
+
+No file AnnotatedBibliography.bbl.
+>>>>>>> Leman
 Package biblatex Info: Reference section=0 on input line 8.
 Package biblatex Info: Reference segment=0 on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1827,6 +2206,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 12.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 LaTeX Warning: Citation 'Gerontakos2007' on page 1 undefined on input line 20.
@@ -1884,11 +2264,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (AnnotatedBibliography.aux)
 >>>>>>> origin/Davee
 =======
+=======
+>>>>>>> Leman
 LaTeX Warning: Citation 'Dolan2016' on page 1 undefined on input line 15.
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
 
+<<<<<<< HEAD
 LaTeX Warning: Citation 'Dolan2016' on page 1 undefined on input line 20.
 
 
@@ -1917,16 +2300,33 @@ LaTeX Warning: Empty bibliography on input line 24.
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (AnnotatedBibliography.aux)
 >>>>>>> Burnell
+=======
+LaTeX Warning: Citation 'Nan2013' on page 1 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'Gonzalez' on page 1 undefined on input line 23.
+
+
+LaTeX Warning: Empty bibliography on input line 26.
+
+[1
+
+{C:/Users/Eli/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(AnnotatedBibliography.aux)
+>>>>>>> Leman
 
 LaTeX Warning: There were undefined references.
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
 >>>>>>> Burnell
+=======
+>>>>>>> Leman
 Package biblatex Warning: Please (re)run BibTeX on the file(s):
 (biblatex)                AnnotatedBibliography
 (biblatex)                and rerun LaTeX afterwards.
@@ -1936,6 +2336,7 @@ Package logreq Info: Writing requests to 'AnnotatedBibliography.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
  19597 strings out of 493324
@@ -1989,4 +2390,21 @@ PDF statistics:
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 >>>>>>> Burnell
+=======
+ 19462 strings out of 493312
+ 388062 string characters out of 3138905
+ 788685 words of memory out of 3000000
+ 22711 multiletter control sequences out of 15000+200000
+ 11232 words of font info for 26 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 62i,7n,80p,841b,1148s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/urw/times/utmr8a.pfb>
+Output written on AnnotatedBibliography.pdf (1 page, 35588 bytes).
+PDF statistics:
+ 42 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 109 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> Leman
 
