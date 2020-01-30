@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.1.11)  29 JAN 2020 19:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.1.11)  30 JAN 2020 08:37
 entering extended mode
 **./AnnotatedBibliography.tex
 (AnnotatedBibliography.tex
@@ -678,6 +678,18 @@ Package biblatex Info: ... file 'blx-compat.def' found.
 at.def"
 File: blx-compat.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
 )
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+
+("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\blx-bibt
+ex.def"
+File: blx-bibtex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
@@ -743,19 +755,19 @@ File: biblatex.cfg
  (AnnotatedBibliography.aux)
 \openout1 = `AnnotatedBibliography.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 10.
 
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -798,7 +810,7 @@ G,.JBIG2,.JB2,.eps]
 Package todonotes Warning: The length marginparwidth is less than 2cm and will 
 most likely cause issues with the appearance of inserted todonotes. The issue c
 an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
-loading the todonotes package. on input line 8.
+loading the todonotes package. on input line 10.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -845,48 +857,39 @@ Package biblatex Info: No input encoding detected.
 (biblatex)             Assuming 'ascii'.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'ascii'.
-\openout4 = `AnnotatedBibliography.bcf'.
+Package biblatex Info: Input encoding 'ascii' specified.
+Package biblatex Info: Data encoding 'ascii' specified.
+(biblatex)             No need to reencode data.
+\openout4 = `AnnotatedBibliography-blx.bib'.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'AnnotatedBibliography.bbl' found.
  (AnnotatedBibliography.bbl)
-Package biblatex Info: Reference section=0 on input line 8.
-Package biblatex Info: Reference segment=0 on input line 8.
+Package biblatex Info: Reference section=0 on input line 10.
+Package biblatex Info: Reference segment=0 on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 12.
+(Font)              <14.4> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 12.
+(Font)              <7> on input line 14.
 
 
-LaTeX Warning: Citation 'Dolan2016' on page 1 undefined on input line 15.
+LaTeX Warning: Citation 'Nan2013' on page 1 undefined on input line 23.
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
-
-LaTeX Warning: Citation 'Dolan2016' on page 1 undefined on input line 20.
-
-
-LaTeX Warning: Citation 'Dolan2016' on page 1 undefined on input line 20.
-
-
-LaTeX Warning: Citation 'Dolan2016' on page 1 undefined on input line 20.
-
-
-LaTeX Warning: Citation 'J.EllisBell2015' on page 1 undefined on input line 21.
-
-
-
-LaTeX Warning: Citation 'J.EllisBell2015' on page 1 undefined on input line 21.
-
-
-
-LaTeX Warning: Citation 'J.EllisBell2015' on page 1 undefined on input line 21.
-
-
-
-LaTeX Warning: Empty bibliography on input line 24.
-
-[1
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 26.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 26.
+("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 26.
+ [1
 
 {C:/Users/Cam PC/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (AnnotatedBibliography.aux)
@@ -894,7 +897,7 @@ LaTeX Warning: Empty bibliography on input line 24.
 LaTeX Warning: There were undefined references.
 
 
-Package biblatex Warning: Please (re)run Biber on the file:
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
 (biblatex)                AnnotatedBibliography
 (biblatex)                and rerun LaTeX afterwards.
 
@@ -903,20 +906,22 @@ Package logreq Info: Writing requests to 'AnnotatedBibliography.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19463 strings out of 493323
- 393671 string characters out of 3129579
- 814482 words of memory out of 3000000
- 22705 multiletter control sequences out of 15000+200000
- 11232 words of font info for 26 fonts, out of 3000000 for 9000
+ 19527 strings out of 493323
+ 394109 string characters out of 3129579
+ 789454 words of memory out of 3000000
+ 22749 multiletter control sequences out of 15000+200000
+ 19726 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,7n,80p,841b,1183s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,6n,80p,812b,1273s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Cam PC/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.en
-c}<C:/Users/Cam PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb
-8a.pfb><C:/Users/Cam PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times
-/utmr8a.pfb>
-Output written on AnnotatedBibliography.pdf (1 page, 34281 bytes).
+c}<C:/Users/Cam PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/courier/uc
+rr8a.pfb><C:/Users/Cam PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/tim
+es/utmb8a.pfb><C:/Users/Cam PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
+w/times/utmr8a.pfb><C:/Users/Cam PC/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/urw/times/utmri8a.pfb>
+Output written on AnnotatedBibliography.pdf (1 page, 56565 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
+ 50 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  109 words of extra memory for PDF output out of 10000 (max. 10000000)
 

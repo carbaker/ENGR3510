@@ -1,0 +1,85 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{Dolan2016}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DEL}{%
+         family={Dolan},
+         familyi={D\bibinitperiod},
+         given={Erin\bibnamedelima L},
+         giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DEL1}
+    \strng{fullhash}{DEL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{abstract}{%
+    Course-based Undergraduate Research Experiences (CUREs) have emerged in
+  recent years in response to studies showing the benefits of undergraduate
+  research internships and to national calls to engage many more STEM
+  undergraduates in doing research. The purpose of this paper is to summarize
+  the state of knowledge about CURE instruction, including shortcomings in the
+  knowledge base and recommendations for future research and practice. CUREs
+  are distinctive as learning environments because they afford students
+  opportunities to make discoveries that are of interest to the broader
+  scientific community or other stakeholders outside the classroom. CUREs also
+  engage students in iterative work, during which they repeat and build on
+  aspects of their own and others' work in order to ensure the trustworthiness
+  of their findings and generate meaningful scientific knowledge. Communication
+  and collaboration are thought to be important elements of effective CUREs,
+  but the importance of producing scientific publications versus other
+  meaningful products remains an area of debate. Numerous student-, faculty-,
+  and institution-level goals have driven CURE development, especially in the
+  life sciences and chemistry. These goals include the desire to improve
+  students' persistence and success in STEM and in college, to make research
+  accessible to a larger and more diverse group of students, and integrate to
+  the teaching and research efforts of faculty. Introductory-level CUREs are
+  thought to exert greater influence students' educational and career
+  trajectories, while upper-level CUREs are useful for to students confirm
+  their interest in pursuing science-research related educational or career
+  paths. Small-and large-scale CUREs have been developed that engage students
+  in addressing common and diverse research questions. CUREs themselves vary
+  widely in duration, costs, and operations. There are only a few published
+  examples of CURE being implemented in two-year colleges or minority-serving
+  institutions. Students who participate in CUREs develop content knowledge and
+  technical skills specific to the area of research. They also develop
+  confidence in their ability to do science and a sense of 2 ownership of their
+  research. Few studies of CUREs to date make use of valid and reliable
+  measures of student outcomes, or study designs and methods that control for
+  student-level differences. Additional research is needed that makes use of
+  theory and methods from the social sciences to more fully understand how
+  CUREs operate, how students and faculty benefit from this unique learning
+  environment, and how challenges to adopting, implementing, and sustaining
+  CUREs can be overcome.%
+    }
+    \field{pages}{1\bibrangedash 34}
+    \field{title}{{Course-based Undergraduate Research Experiences: Current
+  knowledge and future directions}}
+    \verb{url}
+    \verb http://sites.nationalacademies.org/cs/groups/dbassesite/documents/web
+    \verb page/dbasse{\_}177288.pdf
+    \endverb
+    \field{journaltitle}{National Research Council Commissioned Paper}
+    \field{year}{2016}
+  \endentry
+\enddatalist
+\endinput
