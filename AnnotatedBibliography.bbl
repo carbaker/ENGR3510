@@ -1,0 +1,392 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{Dolan2016}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DEL}{%
+         family={Dolan},
+         familyi={D\bibinitperiod},
+         given={Erin\bibnamedelima L},
+         giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DEL1}
+    \strng{fullhash}{DEL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{abstract}{%
+    Course-based Undergraduate Research Experiences (CUREs) have emerged in
+  recent years in response to studies showing the benefits of undergraduate
+  research internships and to national calls to engage many more STEM
+  undergraduates in doing research. The purpose of this paper is to summarize
+  the state of knowledge about CURE instruction, including shortcomings in the
+  knowledge base and recommendations for future research and practice. CUREs
+  are distinctive as learning environments because they afford students
+  opportunities to make discoveries that are of interest to the broader
+  scientific community or other stakeholders outside the classroom. CUREs also
+  engage students in iterative work, during which they repeat and build on
+  aspects of their own and others' work in order to ensure the trustworthiness
+  of their findings and generate meaningful scientific knowledge. Communication
+  and collaboration are thought to be important elements of effective CUREs,
+  but the importance of producing scientific publications versus other
+  meaningful products remains an area of debate. Numerous student-, faculty-,
+  and institution-level goals have driven CURE development, especially in the
+  life sciences and chemistry. These goals include the desire to improve
+  students' persistence and success in STEM and in college, to make research
+  accessible to a larger and more diverse group of students, and integrate to
+  the teaching and research efforts of faculty. Introductory-level CUREs are
+  thought to exert greater influence students' educational and career
+  trajectories, while upper-level CUREs are useful for to students confirm
+  their interest in pursuing science-research related educational or career
+  paths. Small-and large-scale CUREs have been developed that engage students
+  in addressing common and diverse research questions. CUREs themselves vary
+  widely in duration, costs, and operations. There are only a few published
+  examples of CURE being implemented in two-year colleges or minority-serving
+  institutions. Students who participate in CUREs develop content knowledge and
+  technical skills specific to the area of research. They also develop
+  confidence in their ability to do science and a sense of 2 ownership of their
+  research. Few studies of CUREs to date make use of valid and reliable
+  measures of student outcomes, or study designs and methods that control for
+  student-level differences. Additional research is needed that makes use of
+  theory and methods from the social sciences to more fully understand how
+  CUREs operate, how students and faculty benefit from this unique learning
+  environment, and how challenges to adopting, implementing, and sustaining
+  CUREs can be overcome.%
+    }
+    \field{pages}{1\bibrangedash 34}
+    \field{title}{{Course-based Undergraduate Research Experiences: Current
+  knowledge and future directions}}
+    \verb{url}
+    \verb http://sites.nationalacademies.org/cs/groups/dbassesite/documents/web
+    \verb page/dbasse{\_}177288.pdf
+    \endverb
+    \verb{file}
+    \verb :C$\backslash$:/Users/cebaker/AppData/Local/Mendeley Ltd./Mendeley De
+    \verb sktop/Downloaded/Dolan - 2016 - Course-based Undergraduate Research E
+    \verb xperiences Current knowledge and future directions.pdf:pdf
+    \endverb
+    \field{journaltitle}{National Research Council Commissioned Paper}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Gerontakos2007}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GP}{%
+         family={Gerontakos},
+         familyi={G\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=LT}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GPLT1}
+    \strng{fullhash}{GPLT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    An investigation of the dependence of the lift-induced drag coefficient C
+  Di of a square-tipped, cambered wing model on Reynolds number for Re less
+  than 1 million was conducted. Computed based on the vorticity distribution
+  inferred from the near-field cross-flow velocity measurements of the tip
+  vortex, different C Di prediction schemes were used. The effect of
+  measurement plane size and grid resolution on the C Di calculations was also
+  identified. The C Di estimated by the integral method was found to increase
+  with increasing Re and was below the C Di = C l2 /$\pi$eAR prediction. Limits
+  on the measurement plane size and grid resolution were determined to be at
+  least 40{\%} larger than the vortex outside diameter and no larger than
+  0.63{\%} chord, respectively, in order to provide a good estimate of the
+  induced drag. {\textcopyright} Springer-Verlag 2007.%
+    }
+    \verb{doi}
+    \verb 10.1007/s00348-006-0242-6
+    \endverb
+    \field{issn}{07234864}
+    \field{number}{3}
+    \field{pages}{363\bibrangedash 369}
+    \field{title}{{Lift-induced drag of a cambered wing for Re less than 1
+  million}}
+    \field{volume}{42}
+    \verb{file}
+    \verb :C$\backslash$:/Users/cebaker/Documents/ENGR3510/ENGR3510/ReferenceFi
+    \verb les/Lift-induced drag.pdf:pdf
+    \endverb
+    \field{journaltitle}{Experiments in Fluids}
+    \field{year}{2007}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Gonzalez}{report}{}
+    \name{author}{5}{}{%
+      {{hash=GMA}{%
+         family={Gonz{\'{a}}lez},
+         familyi={G\bibinitperiod},
+         given={Miguel\bibnamedelima A},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=EM}{%
+         family={Ezquerro},
+         familyi={E\bibinitperiod},
+         given={Miguel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LV}{%
+         family={Lapuerta},
+         familyi={L\bibinitperiod},
+         given={Victoria},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=LA}{%
+         family={Laver{\'{o}}n},
+         familyi={L\bibinitperiod},
+         given={Ana},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RJ}{%
+         family={Rodr{\'{i}}guez},
+         familyi={R\bibinitperiod},
+         given={Jacobo},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GMA+1}
+    \strng{fullhash}{GMAEMLVLARJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{{Components of a Wind Tunnel Balance: Design and
+  Calibration}}
+    \verb{url}
+    \verb www.intechopen.com
+    \endverb
+    \verb{file}
+    \verb :C$\backslash$:/Users/cebaker/AppData/Local/Mendeley Ltd./Mendeley De
+    \verb sktop/Downloaded/Gonz{\'{a}}lez et al. - Unknown - Components of a Wi
+    \verb nd Tunnel Balance Design and Calibration.pdf:pdf
+    \endverb
+    \field{type}{techreport}
+  \endentry
+
+  \entry{Motohashi1983}{report}{}
+    \name{author}{2}{}{%
+      {{hash=MT}{%
+         family={Motohashi},
+         familyi={M\bibinitperiod},
+         given={T},
+         giveni={T},
+      }}%
+      {{hash=BRF}{%
+         family={Blackwelder},
+         familyi={B\bibinitperiod},
+         given={R\bibnamedelima F},
+         giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MTBRF1}
+    \strng{fullhash}{MTBRF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{abstract}{%
+    To study boundary layers in the transitional Reynolds number regime, the
+  useful spanwise and streamwise extent of wind tunnels is often limited by
+  turbulent fluid emanating from the side walls. Some or all of the turbulent
+  fluid can be removed by sucking fluid out at the corners, as suggested by
+  Amini [J]. It is shown that by optimizing the suction slot width, the side
+  wall contamination can be dramatically decreased without a concomitant
+  three-dimensional distortion of the laminar boundary layer. Introduction
+  Operating test facilities in regimes necessary to study boundary layer
+  transition is known to be fraught with problems. Indeed, the operating
+  requirements are so rigid that it was only after years of wind tunnel
+  development and testing that Schubauer and Skramstad [2] were able to
+  identify Tollmien-Schlichting waves in a zero pressure gradient laminar
+  boundary layer. Although present day wind tunnels are much improved, an
+  extreme amount of diligence and care are required to establish appropriate
+  experimental conditions such as smooth test models, low free stream
+  turbulence, etc. However in spite of careful preparations, to study
+  transition the facility must be operated within a Reynolds number regime
+  where small disturbances will be amplified which makes the experimental tasks
+  more difficult. Usually the test model, such as a flat plate or airfoil, is
+  attached to the side walls or other support mechanism. This almost always
+  distorts the mean flow field and produces a turbulence region which begins at
+  or near the corner and grows downstream. Charters [3] and others have shown
+  that this turbulence encroaches upon the laminar flow field very rapidly
+  downstream; i.e., it spreads typically at a 10 deg angle with respect to the
+  downstream direction. This large growth angle severely limits the useful
+  spanwise extent of the test model. In addition, the pressure fluctuations
+  associated with the turbulence generated from the side walls can contaminate
+  the remaining laminar region causing it to prematurely transition. Amini [1]
+  apparently was the first to attack this problem by applying suction at the
+  corners to remove the growing turbulent regions. His test model was a 3 m
+  long flat plate 65 cm wide with a turbulent spot generator located 30 cm
+  downstream of the leading edge. Slots between the plate and the sidewalls
+  were used to remove the turbulent fluid. The slots were 2 mm wide near the
+  leading edge and decreased to 1 mm at 1.5 m downstream of the leading edge. A
+  slight over%
+    }
+    \field{title}{{Decreasing the Side Wall Contamination in Wind Tunnels}}
+    \verb{url}
+    \verb https://asmedigitalcollection.asme.org/fluidsengineering/article-pdf/
+    \verb 105/4/435/5483428/435{\_}1.pdf
+    \endverb
+    \verb{file}
+    \verb ::
+    \endverb
+    \field{type}{techreport}
+    \field{year}{1983}
+  \endentry
+
+  \entry{Nan2013}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NL}{%
+         family={Nan},
+         familyi={N\bibinitperiod},
+         given={Li},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NL1}
+    \strng{fullhash}{NL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{number}{January}
+    \field{title}{{The methods of drag force measurement in wind tunnels}}
+    \verb{file}
+    \verb :C$\backslash$:/Users/cebaker/AppData/Local/Mendeley Ltd./Mendeley De
+    \verb sktop/Downloaded/Li - 2013 - The methods of drag force measurement in
+    \verb  wind tunnels.pdf:pdf
+    \endverb
+    \field{year}{2013}
+  \endentry
+
+  \entry{Portman2009}{article}{}
+    \name{author}{4}{}{%
+      {{hash=PV}{%
+         family={Portman},
+         familyi={P\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=SBZ}{%
+         family={Sandler},
+         familyi={S\bibinitperiod},
+         given={B.\bibnamedelima Z.},
+         giveni={B\bibinitperiod\bibinitdelim Z\bibinitperiod},
+      }}%
+      {{hash=CV}{%
+         family={Chapsky},
+         familyi={C\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=ZI}{%
+         family={Zilberman},
+         familyi={Z\bibinitperiod},
+         given={I.},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \keyw{6-DOF force/torque sensor,External balances,Isotropic sensor
+  system,Wind tunnel}
+    \strng{namehash}{PV+1}
+    \strng{fullhash}{PVSBZCVZI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{abstract}{%
+    A 6-DOF isotropic device for measurement of force and torque components of
+  drag that is suitable for use in wind tunnels is described in this paper.
+  With our system, only the body under investigation and its fastening elements
+  are placed inside the wind tunnel; six force sensors (load cells) are
+  fastened outside the wind tunnel in a symmetric design by means of a metal
+  cubic frame suspended on a massive base. Mathematical expressions describing
+  the measurement and computation process of the values of the six force and
+  torque vectors of the above-mentioned sensors are proposed. The isotropy
+  features of the proposed device were shown to be superior to those of an
+  existing tunnel balance device. To test the proposed device, the influence of
+  the air flow on a model pattern in the shape of a flat disc or a cube
+  fastened along its diagonal, the patterns were positioned at different angles
+  relative to the air flow in the tunnel. {\textcopyright} 2009 Springer
+  Science+Business Media, B.V.%
+    }
+    \verb{doi}
+    \verb 10.1007/s10999-009-9106-6
+    \endverb
+    \field{issn}{15691713}
+    \field{number}{4}
+    \field{pages}{337\bibrangedash 352}
+    \field{title}{{A 6-DOF isotropic measuring system for force and torque
+  components of drag for use in wind tunnels : IIInnovative design}}
+    \field{volume}{5}
+    \verb{file}
+    \verb :C$\backslash$:/Users/cebaker/AppData/Local/Mendeley Ltd./Mendeley De
+    \verb sktop/Downloaded/Portman et al. - 2009 - A 6-DOF isotropic measuring
+    \verb system for force and torque components of drag for use in wind tunnel
+    \verb s IIInnovative.pdf:pdf
+    \endverb
+    \field{journaltitle}{International Journal of Mechanics and Materials in
+  Design}
+    \field{year}{2009}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Wilson-strain-gage}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WEJ}{%
+         family={Wilson},
+         familyi={W\bibinitperiod},
+         given={Earl\bibnamedelima J.},
+         giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WEJ1}
+    \strng{fullhash}{WEJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \verb{doi}
+    \verb 10.1016/S0749-0739(17)30281-X
+    \endverb
+    \field{issn}{07490739}
+    \field{number}{2}
+    \field{pages}{235\bibrangedash 259}
+    \field{title}{{Strain-Gage Instrumention}}
+    \field{volume}{12}
+    \verb{file}
+    \verb :C$\backslash$:/Users/cebaker/Downloads/Strain-Gage instrumentation0.
+    \verb pdf:pdf
+    \endverb
+    \field{year}{1996}
+  \endentry
+\enddatalist
+\endinput

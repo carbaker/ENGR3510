@@ -41,7 +41,11 @@
   >
 ]>
 <requests version="1.0">
+<<<<<<< HEAD
   <internal package="biblatex" priority="9" active="1">
+=======
+  <internal package="biblatex" priority="9" active="0">
+>>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
     <generic>latex</generic>
     <provides type="dynamic">
       <file>AnnotatedBibliography.aux</file>
@@ -62,7 +66,11 @@
       <file>english.lbx</file>
     </requires>
   </internal>
+<<<<<<< HEAD
   <external package="biblatex" priority="5" active="1">
+=======
+  <external package="biblatex" priority="5" active="0">
+>>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
