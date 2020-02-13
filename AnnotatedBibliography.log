@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.1.11)  30 JAN 2020 08:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.1.11)  13 FEB 2020 08:35
 entering extended mode
 **./AnnotatedBibliography.tex
 (AnnotatedBibliography.tex
@@ -755,19 +755,19 @@ File: biblatex.cfg
  (AnnotatedBibliography.aux)
 \openout1 = `AnnotatedBibliography.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 9.
 
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -810,7 +810,7 @@ G,.JBIG2,.JB2,.eps]
 Package todonotes Warning: The length marginparwidth is less than 2cm and will 
 most likely cause issues with the appearance of inserted todonotes. The issue c
 an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
-loading the todonotes package. on input line 10.
+loading the todonotes package. on input line 9.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -863,36 +863,43 @@ Package biblatex Info: Data encoding 'ascii' specified.
 \openout4 = `AnnotatedBibliography-blx.bib'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'AnnotatedBibliography.bbl' found.
- (AnnotatedBibliography.bbl)
-Package biblatex Info: Reference section=0 on input line 10.
-Package biblatex Info: Reference segment=0 on input line 10.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 14.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 14.
+Package biblatex Info: ... file 'AnnotatedBibliography.bbl' not found.
 
+No file AnnotatedBibliography.bbl.
+Package biblatex Info: Reference section=0 on input line 9.
+Package biblatex Info: Reference segment=0 on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 13.
 
-LaTeX Warning: Citation 'Nan2013' on page 1 undefined on input line 23.
+LaTeX Warning: Citation 'Dolan2016' on page 1 undefined on input line 19.
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 26.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 26.
-("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 26.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 26.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 26.
- [1
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 19.
+
+LaTeX Warning: Citation 'Gerontakos2007' on page 1 undefined on input line 25.
+
+
+LaTeX Warning: Citation 'Portman2009' on page 1 undefined on input line 26.
+
+
+LaTeX Warning: Citation 'Nan2013' on page 1 undefined on input line 27.
+
+
+LaTeX Warning: Citation 'Gonzalez' on page 1 undefined on input line 30.
+
+[1
 
 {C:/Users/Cam PC/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(AnnotatedBibliography.aux)
+
+LaTeX Warning: Citation 'Wilson-strain-gage' on page 2 undefined on input line 
+31.
+
+
+LaTeX Warning: Empty bibliography on input line 34.
+
+[2] (AnnotatedBibliography.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -906,22 +913,20 @@ Package logreq Info: Writing requests to 'AnnotatedBibliography.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19527 strings out of 493323
- 394109 string characters out of 3129579
- 789454 words of memory out of 3000000
- 22749 multiletter control sequences out of 15000+200000
- 19726 words of font info for 43 fonts, out of 3000000 for 9000
+ 19514 strings out of 493323
+ 394611 string characters out of 3129579
+ 794872 words of memory out of 3000000
+ 22754 multiletter control sequences out of 15000+200000
+ 11232 words of font info for 26 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,6n,80p,812b,1273s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,7n,80p,1055b,1148s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Cam PC/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.en
-c}<C:/Users/Cam PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/courier/uc
-rr8a.pfb><C:/Users/Cam PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/tim
-es/utmb8a.pfb><C:/Users/Cam PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
-w/times/utmr8a.pfb><C:/Users/Cam PC/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/urw/times/utmri8a.pfb>
-Output written on AnnotatedBibliography.pdf (1 page, 56565 bytes).
+c}<C:/Users/Cam PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb
+8a.pfb><C:/Users/Cam PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times
+/utmr8a.pfb>
+Output written on AnnotatedBibliography.pdf (2 pages, 40137 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
+ 45 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  109 words of extra memory for PDF output out of 10000 (max. 10000000)
 
