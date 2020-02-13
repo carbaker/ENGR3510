@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.1.11)  13 FEB 2020 08:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.1.11)  13 FEB 2020 08:53
 entering extended mode
 **./AnnotatedBibliography.tex
 (AnnotatedBibliography.tex
@@ -881,23 +881,26 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 LaTeX Warning: Citation 'Gerontakos2007' on page 1 undefined on input line 25.
 
 
-LaTeX Warning: Citation 'Portman2009' on page 1 undefined on input line 26.
+LaTeX Warning: Citation 'Portman2009' on page 1 undefined on input line 27.
 
 
-LaTeX Warning: Citation 'Nan2013' on page 1 undefined on input line 27.
+LaTeX Warning: Citation 'Nan2013' on page 1 undefined on input line 29.
 
 
-LaTeX Warning: Citation 'Gonzalez' on page 1 undefined on input line 30.
+LaTeX Warning: Citation 'Gonzalez' on page 1 undefined on input line 31.
 
 [1
 
 {C:/Users/Cam PC/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 
 LaTeX Warning: Citation 'Wilson-strain-gage' on page 2 undefined on input line 
-31.
+33.
 
 
-LaTeX Warning: Empty bibliography on input line 34.
+LaTeX Warning: Citation 'Rudnicki2004' on page 2 undefined on input line 35.
+
+
+LaTeX Warning: Empty bibliography on input line 38.
 
 [2] (AnnotatedBibliography.aux)
 
@@ -915,7 +918,7 @@ Package logreq Info: Writing requests to 'AnnotatedBibliography.run.xml'.
 Here is how much of TeX's memory you used:
  19514 strings out of 493323
  394611 string characters out of 3129579
- 794872 words of memory out of 3000000
+ 795050 words of memory out of 3000000
  22754 multiletter control sequences out of 15000+200000
  11232 words of font info for 26 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -924,7 +927,7 @@ Here is how much of TeX's memory you used:
 c}<C:/Users/Cam PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb
 8a.pfb><C:/Users/Cam PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times
 /utmr8a.pfb>
-Output written on AnnotatedBibliography.pdf (2 pages, 40137 bytes).
+Output written on AnnotatedBibliography.pdf (2 pages, 41604 bytes).
 PDF statistics:
  45 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
