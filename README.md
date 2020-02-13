@@ -8,4 +8,7 @@ git pull origin master
 
 % Update any merges
 
+git add .
+git commit -m message
 
+% Make any other changes to the documents that you need to for your own work.
