@@ -3,3 +3,9 @@
 # You will need to make accounts/install the following: 
 # Mendeley: https://www.mendeley.com/?interaction_required=true
 # Git: https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/
+
+git pull origin master 
+
+% Update any merges
+
+
