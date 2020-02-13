@@ -16,7 +16,5 @@ git commit -m message
 git pull origin branch
 git push origin branch
 
-git pull origin master
-git push origin master
 
-% Along the way, you will need to perform merges. Please do not erase other people's work as you do so. If you cannot merge to master, that's fine - just make sure you at least pull and push your own branch.
+% Along the way, you will need to perform merges. Please do not erase other people's work as you do so. I will make final merges to master. 
