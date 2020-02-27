@@ -192,6 +192,64 @@
     \field{type}{techreport}
   \endentry
 
+  \entry{Hubova2019}{article}{}
+    \name{author}{3}{}{%
+      {{hash=HO}{%
+         family={Hubov{\'{a}}},
+         familyi={H\bibinitperiod},
+         given={Oľga},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Franek},
+         familyi={F\bibinitperiod},
+         given={Michal},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Mac{\'{a}}k},
+         familyi={M\bibinitperiod},
+         given={Marek},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \keyw{Boundary layer wind tunnel,Plastic mesh fabric,Steel mesh fabric,Wind
+  load,Wind load reduction}
+    \strng{namehash}{HOFMMM1}
+    \strng{fullhash}{HOFMMM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{abstract}{%
+    The presented contribution deals with evaluation of wind loads on various
+  layouts of plastic and steel mesh fabric. To obtain real wind effects and
+  loads, the experimental measurement in the Boundary Layer Wind Tunnel (BLWT)
+  in Bratislava has been prepared. The goal of an investigation is the
+  determination of wind loads on permeable materials – plastic and steel
+  fabric, using wind load reduction factor k. The mean wind pressure on the
+  permeable material is obtained by multiplying the wind pressure to the
+  impermeable surface by the reduction factor k depending on the Reynolds
+  number. The experimentally determined reduction factor can be applied for
+  design of the safety mesh fabric. Wind loads were obtained from measurement
+  of wind velocity by Hot-Wire anemometry (HWA).%
+    }
+    \verb{doi}
+    \verb 10.21595/vp.2019.20659
+    \endverb
+    \field{issn}{23450533}
+    \field{number}{1}
+    \field{pages}{123\bibrangedash 127}
+    \field{title}{{Wind loads and their reduction on mesh fabrics}}
+    \field{volume}{23}
+    \verb{file}
+    \verb :C$\backslash$:/Users/cebaker/Documents/ENGR3510/ENGR3510/ReferenceFi
+    \verb les/Wind{\_}loads{\_}and{\_}their{\_}reduction.PDF:PDF
+    \endverb
+    \field{journaltitle}{Vibroengineering Procedia}
+    \field{year}{2019}
+  \endentry
+
   \entry{Motohashi1983}{report}{}
     \name{author}{2}{}{%
       {{hash=MT}{%
@@ -387,6 +445,63 @@
     \verb pdf:pdf
     \endverb
     \field{year}{1996}
+  \endentry
+
+  \entry{Yan2009}{article}{}
+    \name{author}{3}{}{%
+      {{hash=YL}{%
+         family={Yan},
+         familyi={Y\bibinitperiod},
+         given={Li},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=XD}{%
+         family={Xingzhi},
+         familyi={X\bibinitperiod},
+         given={Ding},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=YW}{%
+         family={Yankui},
+         familyi={Y\bibinitperiod},
+         given={Wang},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \keyw{Data acquisition and processing,Force measurement system,Strain gauge
+  balance,Wind tunnel}
+    \strng{namehash}{YLXDYW1}
+    \strng{fullhash}{YLXDYW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \field{abstract}{%
+    Wind tunnel is a basic experimental facility, in which a variety of
+  aerodynamic research can be conducted by measuring force acted on the test
+  model, pressure distribution on the model surface, as well as by visualizing
+  the flow around the model. The force measurement test is conventional and
+  especially important for the aircraft and other vehicle design to predict
+  their performance. The force measurement system of D-4 wind tunnel in Beijing
+  University of Aeronautics and Astronautics is introduced together with a
+  force measurement test as an instance. {\textcopyright}2009 IEEE.%
+    }
+    \verb{doi}
+    \verb 10.1109/ICEMI.2009.5274309
+    \endverb
+    \field{isbn}{9781424438624}
+    \field{pages}{3302\bibrangedash 3305}
+    \field{title}{{Force measurement system of a low-speed wind tunnel}}
+    \verb{file}
+    \verb :C$\backslash$:/Users/cebaker/Documents/ENGR3510/ENGR3510/ReferenceFi
+    \verb les/05274309.pdf:pdf
+    \endverb
+    \field{journaltitle}{ICEMI 2009 - Proceedings of 9th International
+  Conference on Electronic Measurement and Instruments}
+    \field{year}{2009}
   \endentry
 \enddatalist
 \endinput

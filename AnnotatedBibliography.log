@@ -1,44 +1,12 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.24)  13 FEB 2020 08:56
-entering extended mode
-**./AnnotatedBibliography.tex
-(AnnotatedBibliography.tex
-LaTeX2e <2019-10-01> patch level 3
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls
-"
-Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
-File: size12.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
-)
-\c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.12.4)  13 FEB 2020 08:31
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.1.11)  13 FEB 2020 08:53
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.1.11)  26 FEB 2020 23:53
 entering extended mode
 **./AnnotatedBibliography.tex
 (AnnotatedBibliography.tex
 LaTeX2e <2017-04-15>
-<<<<<<< HEAD
-Babel <3.9t> and hyphenation patterns for 75 language(s) loaded.
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
-=======
 Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -49,72 +17,10 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \c@subparagraph=\count84
 \c@figure=\count85
 \c@table=\count86
-<<<<<<< HEAD
->>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
-=======
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-<<<<<<< HEAD
-<<<<<<< HEAD
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/todonotes\todono
-tes.sty"
-Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
-Package: todonotes 2018/11/22
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.
-sty"
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyva
-l.tex"
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvuti
-ls.tex"
-\XKV@toks=\toks14
-\XKV@tempa@toks=\toks15
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\keyval
-.tex"))
-\XKV@depth=\count88
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.st
-y"
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\col
-or.cfg"
-=======
-("C:\Program Files\MiKTeX 2.9\tex\latex\todonotes\todonotes.sty"
-Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
-Package: todonotes 2018/11/22
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
-\XKV@toks=\toks14
-\XKV@tempa@toks=\toks15
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\keyval.tex"))
-\XKV@depth=\count87
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
->>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\todonotes\todonot
 es.sty"
 Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
@@ -145,29 +51,10 @@ Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\colo
 r.cfg"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdf
-tex.def"
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
-=======
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
-File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count88
->>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdft
 ex.def"
 File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
@@ -181,7 +68,6 @@ s.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count88
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
@@ -193,23 +79,6 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-<<<<<<< HEAD
-<<<<<<< HEAD
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendlaye
-r\tikz.sty"
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\p
-gf.sty"
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pg
-frcs.sty"
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
-pgfutil-common.tex"
-=======
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty"
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex"
->>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer
 \tikz.sty"
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pg
@@ -218,58 +87,10 @@ f.sty"
 rcs.sty"
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
 gfutil-common.tex"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 \pgfutil@everybye=\toks16
 \pgfutil@tempdima=\dimen103
 \pgfutil@tempdimb=\dimen104
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
-pgfutil-common-lists.tex"))
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
-pgfutil-latex.def"
-\pgfutil@abb=\box27
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
-Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-))
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
-pgfrcs.code.tex"
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.revisi
-on.tex")
-Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
-))
-Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\p
-gfcore.sty"
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
-x.sty"
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
-s.sty"
-Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.st
-y"
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gra
-phics.cfg"
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 105.
-=======
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.te
-x")) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def"
-\pgfutil@abb=\box26
-("C:\Program Files\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
-Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
 gfutil-common-lists.tex"))
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
@@ -281,28 +102,10 @@ Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
 gfrcs.code.tex"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
 ))
 Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
 
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 99.
->>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pg
 fcore.sty"
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx
@@ -322,39 +125,10 @@ hics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 )
 \Gin@req@height=\dimen105
 \Gin@req@width=\dimen106
 )
-<<<<<<< HEAD
-<<<<<<< HEAD
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/systemlayer\
-pgfsys.sty"
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlaye
-r\pgfsys.code.tex"
-Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
-pgfkeys.code.tex"
-\pgfkeys@pathtoks=\toks17
-\pgfkeys@temptoks=\toks18
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
-pgfkeysfiltered.code.tex"
-=======
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex"
-Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
-\pgfkeys@pathtoks=\toks17
-\pgfkeys@temptoks=\toks18
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.te
-x"
->>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\p
 gfsys.sty"
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
@@ -368,7 +142,6 @@ gfkeys.code.tex"
 
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\p
 gfkeysfiltered.code.tex"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 \pgfkeys@tmptoks=\toks19
 ))
 \pgf@x=\dimen107
@@ -379,14 +152,6 @@ gfkeysfiltered.code.tex"
 \pgf@yb=\dimen112
 \pgf@xc=\dimen113
 \pgf@yc=\dimen114
-<<<<<<< HEAD
-<<<<<<< HEAD
-\pgf@xd=\dimen115
-\pgf@yd=\dimen116
-=======
->>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
-=======
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
 \c@pgf@counta=\count89
@@ -396,71 +161,13 @@ gfkeysfiltered.code.tex"
 \t@pgf@toka=\toks20
 \t@pgf@tokb=\toks21
 \t@pgf@tokc=\toks22
-<<<<<<< HEAD
-<<<<<<< HEAD
-\pgf@sys@id@count=\count93
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlaye
-r\pgf.cfg"
-File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
-)
-Driver file for pgf: pgfsys-pdftex.def
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlaye
-r\pgfsys-pdftex.def"
-File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlaye
-r\pgfsys-common-pdf.def"
-File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
-)))
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlaye
-r\pgfsyssoftpath.code.tex"
-File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfsyssoftpath@smallbuffer@items=\count94
-\pgfsyssoftpath@bigbuffer@items=\count95
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlaye
-r\pgfsysprotocol.code.tex"
-File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-))
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcore.code.tex"
-Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-th.code.tex"
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thcalc.code.tex"
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thutil.code.tex")
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thparser.code.tex"
-\pgfmath@dimen=\dimen117
-\pgfmath@count=\count96
-\pgfmath@box=\box28
-=======
- ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
-=======
 
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
 \pgf.cfg"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def"
-File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
-"
-File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
-)))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.t
-ex"
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
 \pgfsys-pdftex.def"
 File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
@@ -471,26 +178,10 @@ File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )))
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
 \pgfsyssoftpath.code.tex"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
 \pgfsyssoftpath@smallbuffer@items=\count93
 \pgfsyssoftpath@bigbuffer@items=\count94
 )
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.t
-ex"
-File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-)) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex"
-Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
- ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
-\pgfmath@dimen=\dimen115
-\pgfmath@count=\count95
-\pgfmath@box=\box27
->>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer
 \pgfsysprotocol.code.tex"
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
@@ -510,262 +201,10 @@ hparser.code.tex"
 \pgfmath@dimen=\dimen115
 \pgfmath@count=\count95
 \pgfmath@box=\box27
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 \pgfmath@toks=\toks23
 \pgfmath@stack@operand=\toks24
 \pgfmath@stack@operation=\toks25
 )
-<<<<<<< HEAD
-<<<<<<< HEAD
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thfunctions.code.tex"
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thfunctions.basic.code.tex")
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thfunctions.trigonometric.code.tex")
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thfunctions.random.code.tex")
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thfunctions.comparison.code.tex")
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thfunctions.base.code.tex")
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thfunctions.round.code.tex")
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thfunctions.misc.code.tex")
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thfunctions.integerarithmetics.code.tex")))
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-thfloat.code.tex"
-\c@pgfmathroundto@lastzeros=\count97
-))
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfin
-t.code.tex")
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcorepoints.code.tex"
-File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@picminx=\dimen118
-\pgf@picmaxx=\dimen119
-\pgf@picminy=\dimen120
-\pgf@picmaxy=\dimen121
-\pgf@pathminx=\dimen122
-\pgf@pathmaxx=\dimen123
-\pgf@pathminy=\dimen124
-\pgf@pathmaxy=\dimen125
-\pgf@xx=\dimen126
-\pgf@xy=\dimen127
-\pgf@yx=\dimen128
-\pgf@yy=\dimen129
-\pgf@zx=\dimen130
-\pgf@zy=\dimen131
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcorepathconstruct.code.tex"
-File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@path@lastx=\dimen132
-\pgf@path@lasty=\dimen133
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcorepathusage.code.tex"
-File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@shorten@end@additional=\dimen134
-\pgf@shorten@start@additional=\dimen135
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcorescopes.code.tex"
-File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfpic=\box29
-\pgf@hbox=\box30
-\pgf@layerbox@main=\box31
-\pgf@picture@serial@count=\count98
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcoregraphicstate.code.tex"
-File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgflinewidth=\dimen136
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcoretransformations.code.tex"
-File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@pt@x=\dimen137
-\pgf@pt@y=\dimen138
-\pgf@pt@temp=\dimen139
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcorequick.code.tex"
-File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcoreobjects.code.tex"
-File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcorepathprocessing.code.tex"
-File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcorearrows.code.tex"
-File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfarrowsep=\dimen140
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcoreshade.code.tex"
-File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@max=\dimen141
-\pgf@sys@shading@range@num=\count99
-\pgf@shadingcount=\count100
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcoreimage.code.tex"
-File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcoreexternal.code.tex"
-File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfexternal@startupbox=\box32
-))
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcorelayers.code.tex"
-File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcoretransparency.code.tex"
-File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcorepatterns.code.tex"
-File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
-\pgfcorerdf.code.tex"
-File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)))
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pg
-fmoduleshapes.code.tex"
-File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfnodeparttextbox=\box33
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pg
-fmoduleplot.code.tex"
-File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibilit
-y\pgfcomp-version-0-65.sty"
-Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@nodesepstart=\dimen142
-\pgf@nodesepend=\dimen143
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibilit
-y\pgfcomp-version-1-18.sty"
-Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
-))
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pg
-ffor.sty"
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pg
-fkeys.sty"
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
-pgfkeys.code.tex"))
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgfmath
-.sty"
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-th.code.tex"))
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
-pgffor.code.tex"
-Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
-th.code.tex")
-\pgffor@iter=\dimen144
-\pgffor@skip=\dimen145
-\pgffor@stack=\toks26
-\pgffor@toks=\toks27
-))
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendla
-yer/tikz\tikz.code.tex"
-Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\
-pgflibraryplothandlers.code.tex"
-File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@plot@mark@count=\count101
-\pgfplotmarksize=\dimen146
-)
-\tikz@lastx=\dimen147
-\tikz@lasty=\dimen148
-\tikz@lastxsaved=\dimen149
-\tikz@lastysaved=\dimen150
-\tikz@lastmovetox=\dimen151
-\tikz@lastmovetoy=\dimen152
-\tikzleveldistance=\dimen153
-\tikzsiblingdistance=\dimen154
-\tikz@figbox=\box34
-\tikz@figbox@bg=\box35
-\tikz@tempbox=\box36
-\tikz@tempbox@bg=\box37
-\tikztreelevel=\count102
-\tikznumberofchildren=\count103
-\tikznumberofcurrentchild=\count104
-\tikz@fig@count=\count105
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pg
-fmodulematrix.code.tex"
-File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfmatrixcurrentrow=\count106
-\pgfmatrixcurrentcolumn=\count107
-\pgf@matrix@numberofcolumns=\count108
-)
-\tikz@expandcount=\count109
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendla
-yer/tikz/libraries\tikzlibrarytopaths.code.tex"
-File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)))
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendla
-yer/tikz/libraries\tikzlibrarypositioning.code.tex"
-File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendla
-yer/tikz/libraries\tikzlibraryshadows.code.tex"
-File: tikzlibraryshadows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendla
-yer/tikz/libraries\tikzlibraryfadings.code.tex"
-File: tikzlibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\
-pgflibraryfadings.code.tex"
-File: pgflibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)))
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
-Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count110
-\calc@Bcount=\count111
-\calc@Adimen=\dimen155
-\calc@Bdimen=\dimen156
-=======
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.
-tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometr
-ic.code.tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code
-.tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.
-code.tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.t
-ex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.
-tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.t
-ex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarit
-hmetics.code.tex")))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
-\c@pgfmathroundto@lastzeros=\count96
-))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
-"
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
 hfunctions.code.tex"
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
@@ -790,7 +229,6 @@ hfloat.code.tex"
 ))
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcorepoints.code.tex"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@picminx=\dimen116
 \pgf@picmaxx=\dimen117
@@ -807,50 +245,26 @@ File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@zx=\dimen128
 \pgf@zy=\dimen129
 )
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.c
-ode.tex"
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcorepathconstruct.code.tex"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
 \pgf@path@lastx=\dimen130
 \pgf@path@lasty=\dimen131
 )
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.
-tex"
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcorepathusage.code.tex"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 \pgf@shorten@end@additional=\dimen132
 \pgf@shorten@start@additional=\dimen133
 )
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
-"
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcorescopes.code.tex"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box28
 \pgf@hbox=\box29
 \pgf@layerbox@main=\box30
 \pgf@picture@serial@count=\count97
 )
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.co
-de.tex"
-File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen134
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations
-.code.tex"
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcoregraphicstate.code.tex"
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
@@ -858,63 +272,11 @@ File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
 )
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcoretransformations.code.tex"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
 \pgf@pt@x=\dimen135
 \pgf@pt@y=\dimen136
 \pgf@pt@temp=\dimen137
 )
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex"
-File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.te
-x"
-File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.
-code.tex"
-File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
-"
-File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen138
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex"
-File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen139
-\pgf@sys@shading@range@num=\count98
-) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.te
-x"
-File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.t
-ex"
-File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-\pgfexternal@startupbox=\box31
-))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
-"
-File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.co
-de.tex"
-File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.t
-ex"
-File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
-)))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex"
-File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box32
-) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex"
-File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.
-sty"
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\
 pgfcorequick.code.tex"
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
@@ -970,25 +332,10 @@ File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 )
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility
 \pgfcomp-version-0-65.sty"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
 \pgf@nodesepstart=\dimen140
 \pgf@nodesepend=\dimen141
 )
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.
-sty"
-Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
-)) ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty"
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"))
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
-Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex")
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility
 \pgfcomp-version-1-18.sty"
 Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
@@ -1009,26 +356,17 @@ Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmat
 h.code.tex")
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 \pgffor@iter=\dimen142
 \pgffor@skip=\dimen143
 \pgffor@stack=\toks26
 \pgffor@toks=\toks27
 ))
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex"
-Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.
-code.tex"
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
 er\tikz\tikz.code.tex"
 Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\p
 gflibraryplothandlers.code.tex"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \pgf@plot@mark@count=\count99
 \pgfplotmarksize=\dimen144
@@ -1048,12 +386,8 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikznumberofcurrentchild=\count102
 \tikz@fig@count=\count103
 
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex"
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgf
 modulematrix.code.tex"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 \pgfmatrixcurrentrow=\count104
 \pgfmatrixcurrentcolumn=\count105
@@ -1061,28 +395,6 @@ File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 )
 \tikz@expandcount=\count107
 
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
-librarytopaths.code.tex"
-File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
-)))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
-librarypositioning.code.tex"
-File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
-libraryshadows.code.tex"
-File: tikzlibraryshadows.code.tex 2008/01/13 v3.0.1a (rcs-revision 1.3)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
-libraryfadings.code.tex"
-File: tikzlibraryfadings.code.tex 2009/11/15 v3.0.1a (rcs-revision 1.2)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryfadings.code.
-tex"
-File: pgflibraryfadings.code.tex 2008/02/07 v3.0.1a (rcs-revision 1.3)
-))) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlay
 er\tikz\libraries\tikzlibrarytopaths.code.tex"
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
@@ -1104,96 +416,20 @@ gflibraryfadings.code.tex"
 File: pgflibraryfadings.code.tex 2008/02/07 v3.0.1a (rcs-revision 1.3)
 )))
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count108
 \calc@Bcount=\count109
 \calc@Adimen=\dimen151
 \calc@Bdimen=\dimen152
-<<<<<<< HEAD
->>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
-=======
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 \calc@Askip=\skip43
 \calc@Bskip=\skip44
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-<<<<<<< HEAD
-<<<<<<< HEAD
-\calc@Ccount=\count112
-\calc@Cskip=\skip45
-)
-\c@@todonotes@numberoftodonotes=\count113
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometr
-y.sty"
-Package: geometry 2020/01/02 v5.9 Page Geometry
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.s
-ty"
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.st
-y"
-Package: iftex 2019/11/07 v1.0c TeX engine tests
-))
-\Gm@cnth=\count114
-\Gm@cntv=\count115
-\c@Gm@tempcnt=\count116
-\Gm@bindingoffset=\dimen157
-\Gm@wd@mp=\dimen158
-\Gm@odd@mp=\dimen159
-\Gm@even@mp=\dimen160
-\Gm@layoutwidth=\dimen161
-\Gm@layoutheight=\dimen162
-\Gm@layouthoffset=\dimen163
-\Gm@layoutvoffset=\dimen164
-\Gm@dimlist=\toks28
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometr
-y.cfg"))
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\times.sty
-"
-Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblate
-x.sty"
-Package: biblatex 2019/08/31 v3.13a programmable bibliographies (PK/MW)
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdfte
-xcmds.sty"
-Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwa
-rerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcm
-ds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-=======
-=======
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 \calc@Ccount=\count110
 \calc@Cskip=\skip45
 )
 \c@@todonotes@numberoftodonotes=\count111
 )
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
-Package: geometry 2010/09/12 v5.6 Page Geometry
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
-Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry
 .sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
@@ -1209,7 +445,6 @@ Package ifvtex Info: VTeX not detected.
 )
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex
 .sty"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count112
@@ -1225,20 +460,6 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen160
 \Gm@dimlist=\toks28
 
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty"
-Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.sty"
-Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry
 .cfg"))
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\times.sty"
@@ -1255,98 +476,14 @@ Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluat
 ex.sty"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
 Package pdftexcmds Info: LuaTeX not detected.
-<<<<<<< HEAD
->>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
-=======
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-<<<<<<< HEAD
-<<<<<<< HEAD
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbo
-x.sty"
-Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count117
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptio
-ns.sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvset
-keys.sty"
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexc
-mds.sty"
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex
-.sty"
-Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-))))
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.st
-y"
-Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count118
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.de
-f"
-File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-)) ("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
-\Urlmuskip=\muskip10
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-\c@tabx@nest=\count119
-\c@listtotal=\count120
-\c@listcount=\count121
-\c@liststart=\count122
-\c@liststop=\count123
-\c@citecount=\count124
-\c@citetotal=\count125
-\c@multicitecount=\count126
-\c@multicitetotal=\count127
-\c@instcount=\count128
-\c@maxnames=\count129
-\c@minnames=\count130
-\c@maxitems=\count131
-\c@minitems=\count132
-\c@citecounter=\count133
-\c@maxcitecounter=\count134
-\c@savedcitecounter=\count135
-\c@uniquelist=\count136
-\c@uniquename=\count137
-\c@refsection=\count138
-\c@refsegment=\count139
-\c@maxextratitle=\count140
-\c@maxextratitleyear=\count141
-\c@maxextraname=\count142
-\c@maxextradate=\count143
-\c@maxextraalpha=\count144
-\c@abbrvpenalty=\count145
-\c@highnamepenalty=\count146
-\c@lownamepenalty=\count147
-\c@maxparens=\count148
-\c@parenlevel=\count149
-\blx@tempcnta=\count150
-\blx@tempcntb=\count151
-\blx@tempcntc=\count152
-\blx@maxsection=\count153
-\blx@maxsegment@0=\count154
-\blx@notetype=\count155
-\blx@parenlevel@text=\count156
-\blx@parenlevel@foot=\count157
-\blx@sectionciteorder@0=\count158
-\blx@entrysetcounter=\count159
-=======
-=======
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 
 LaTeX Warning: You have requested, on input line 37, version
                `2018/01/30' of package pdftexcmds,
@@ -1354,19 +491,6 @@ LaTeX Warning: You have requested, on input line 37, version
                `2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO)'
                is available.
 
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
-Package: etoolbox 2017/11/22 v2.5 e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count115
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
-=======
 
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox
 .sty"
@@ -1383,23 +507,12 @@ Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcm
 ds.sty"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\latex\logreq\logreq.sty"
-Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count116
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\logreq\logreq.def"
-File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-))
-("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\logreq\logreq.sty
 "
 Package: logreq 2010/08/04 v1.0 xml request logger
@@ -1409,7 +522,6 @@ Package: logreq 2010/08/04 v1.0 xml request logger
 "
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 )) ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -1454,10 +566,6 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \blx@parenlevel@foot=\count155
 \blx@sectionciteorder@0=\count156
 \blx@entrysetcounter=\count157
-<<<<<<< HEAD
->>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
-=======
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 \labelnumberwidth=\skip46
 \labelalphawidth=\skip47
 \biblabelsep=\skip48
@@ -1468,92 +576,6 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip53
 \blx@bcfin=\read2
 \blx@bcfout=\write4
-<<<<<<< HEAD
-<<<<<<< HEAD
-\blx@langwohyphens=\language78
-\c@mincomprange=\count160
-\c@maxcomprange=\count161
-\c@mincompwidth=\count162
-Package biblatex Info: Trying to load biblatex default data model...
-Package biblatex Info: ... file 'blx-dm.def' found.
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-dm.
-def"
-File: blx-dm.def 2019/08/31 v3.13a biblatex localization (PK/MW)
-)
-Package biblatex Info: Trying to load biblatex custom data model...
-Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count163
-\c@savedafterword=\count164
-\c@annotator=\count165
-\c@savedannotator=\count166
-\c@author=\count167
-\c@savedauthor=\count168
-\c@bookauthor=\count169
-\c@savedbookauthor=\count170
-\c@commentator=\count171
-\c@savedcommentator=\count172
-\c@editor=\count173
-\c@savededitor=\count174
-\c@editora=\count175
-\c@savededitora=\count176
-\c@editorb=\count177
-\c@savededitorb=\count178
-\c@editorc=\count179
-\c@savededitorc=\count180
-\c@foreword=\count181
-\c@savedforeword=\count182
-\c@holder=\count183
-\c@savedholder=\count184
-\c@introduction=\count185
-\c@savedintroduction=\count186
-\c@namea=\count187
-\c@savednamea=\count188
-\c@nameb=\count189
-\c@savednameb=\count190
-\c@namec=\count191
-\c@savednamec=\count192
-\c@translator=\count193
-\c@savedtranslator=\count194
-\c@shortauthor=\count195
-\c@savedshortauthor=\count196
-\c@shorteditor=\count197
-\c@savedshorteditor=\count198
-\c@labelname=\count199
-\c@savedlabelname=\count266
-\c@institution=\count267
-\c@savedinstitution=\count268
-\c@lista=\count269
-\c@savedlista=\count270
-\c@listb=\count271
-\c@savedlistb=\count272
-\c@listc=\count273
-\c@savedlistc=\count274
-\c@listd=\count275
-\c@savedlistd=\count276
-\c@liste=\count277
-\c@savedliste=\count278
-\c@listf=\count279
-\c@savedlistf=\count280
-\c@location=\count281
-\c@savedlocation=\count282
-\c@organization=\count283
-\c@savedorganization=\count284
-\c@origlocation=\count285
-\c@savedoriglocation=\count286
-\c@origpublisher=\count287
-\c@savedorigpublisher=\count288
-\c@publisher=\count289
-\c@savedpublisher=\count290
-\c@language=\count291
-\c@savedlanguage=\count292
-\c@origlanguage=\count293
-\c@savedoriglanguage=\count294
-\c@pageref=\count295
-\c@savedpageref=\count296
-=======
-=======
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 \blx@langwohyphens=\language76
 \c@mincomprange=\count158
 \c@maxcomprange=\count159
@@ -1561,12 +583,8 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\blx-dm.def"
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\blx-dm.d
 ef"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex custom data model...
@@ -1639,10 +657,6 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@savedoriglanguage=\count292
 \c@pageref=\count293
 \c@savedpageref=\count294
-<<<<<<< HEAD
->>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
-=======
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 \shorthandwidth=\skip54
 \shortjournalwidth=\skip55
 \shortserieswidth=\skip56
@@ -1660,38 +674,16 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-com
-pat.def"
-File: blx-compat.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
-=======
-("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\blx-compat.def"
-File: blx-compat.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
->>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\blx-comp
 at.def"
 File: blx-compat.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 )
 Package biblatex Info: Trying to load BibTeX backend compatibility...
 Package biblatex Info: ... file 'blx-bibtex.def' found.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-bib
-tex.def"
-File: blx-bibtex.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
-=======
-("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\blx-bibtex.def"
-File: blx-bibtex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
->>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\blx-bibt
 ex.def"
 File: blx-bibtex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 
 
 Package biblatex Warning: Using fall-back BibTeX(8) backend:
@@ -1700,27 +692,9 @@ Package biblatex Warning: Using fall-back BibTeX(8) backend:
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblate
-x.def"
-File: biblatex.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
-\c@textcitecount=\count297
-\c@textcitetotal=\count298
-\c@textcitemaxnames=\count299
-\c@biburlbigbreakpenalty=\count300
-\c@biburlbreakpenalty=\count301
-\c@biburlnumpenalty=\count302
-\c@biburlucpenalty=\count303
-\c@biburllcpenalty=\count304
-=======
- ("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.def"
-=======
 
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex
 .def"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
 \c@textcitecount=\count295
 \c@textcitetotal=\count296
@@ -1730,81 +704,33 @@ File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
 \c@biburlnumpenalty=\count300
 \c@biburlucpenalty=\count301
 \c@biburllcpenalty=\count302
-<<<<<<< HEAD
->>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
-=======
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 \biburlbigskip=\muskip11
 \biburlnumskip=\muskip12
 \biburlucskip=\muskip13
 \biburllcskip=\muskip14
-<<<<<<< HEAD
-<<<<<<< HEAD
-\c@smartand=\count305
-=======
 \c@smartand=\count303
->>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
-=======
-\c@smartand=\count303
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\num
-eric.bbx"
-File: numeric.bbx 2019/08/31 v3.13a biblatex bibliography style (PK/MW)
-Package biblatex Info: Trying to load bibliography style 'standard'...
-Package biblatex Info: ... file 'standard.bbx' found.
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\sta
-ndard.bbx"
-File: standard.bbx 2019/08/31 v3.13a biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count306
-\c@bbx:relatedtotal=\count307
-=======
-("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\bbx\numeric.bbx"
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bbx\nume
 ric.bbx"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 File: numeric.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-<<<<<<< HEAD
-("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\bbx\standard.bbx"
-File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count304
-\c@bbx:relatedtotal=\count305
->>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bbx\stan
 dard.bbx"
 File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count304
 \c@bbx:relatedtotal=\count305
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/cbx\num
-eric.cbx"
-File: numeric.cbx 2019/08/31 v3.13a biblatex citation style (PK/MW)
-=======
-("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\cbx\numeric.cbx"
-File: numeric.cbx 2019/12/01 v3.14 biblatex citation style (PK/MW)
->>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\cbx\nume
 ric.cbx"
 File: numeric.cbx 2019/12/01 v3.14 biblatex citation style (PK/MW)
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -1820,39 +746,13 @@ Package biblatex Info: Redefining '\smartcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblate
-x.cfg"
-File: biblatex.cfg 
-))
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\eng
-lish.lbx"
-File: english.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
-)
-\@quotelevel=\count308
-\@quotereset=\count309
- (AnnotatedBibliography.aux)
-=======
-("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.cfg"
-=======
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex
 .cfg"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 File: biblatex.cfg 
 ))
 \@quotelevel=\count306
 \@quotereset=\count307
-<<<<<<< HEAD
-
-(AnnotatedBibliography.aux)
->>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
-=======
  (AnnotatedBibliography.aux)
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 \openout1 = `AnnotatedBibliography.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -1867,57 +767,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
-<<<<<<< HEAD
-<<<<<<< HEAD
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 9
-.
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd
-"
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp
--pdf.mkii"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count310
-\scratchdimen=\dimen165
-\scratchbox=\box38
-\nofMPsegments=\count311
-\nofMParguments=\count312
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count313
-\MPscratchDim=\dimen166
-\MPnumerator=\count314
-\makeMPintoPDFobject=\count315
-\everyMPtoPDFconversion=\toks30
-)
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\eps
-topdf-base.sty"
-Package: epstopdf-base 2019/11/24 v2.7 Base part for package epstopdf
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.
-sty"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-("C:\Users\aohanna\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdef
-inekeys.sty"
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-42.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 460.
-) ABD: EveryShipout initializing macros
-=======
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 9.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
-=======
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 9.
 
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
@@ -1925,7 +774,6 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
 kii"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count308
 \scratchdimen=\dimen161
@@ -1938,15 +786,6 @@ kii"
 \MPnumerator=\count312
 \makeMPintoPDFobject=\count313
 \everyMPtoPDFconversion=\toks30
-<<<<<<< HEAD
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
-=======
 )
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
 -base.sty"
@@ -1958,7 +797,6 @@ Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefi
 nekeys.sty"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1967,13 +805,7 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-<<<<<<< HEAD
-)
-ABD: EveryShipout initializing macros
->>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
-=======
 ) ABD: EveryShipout initializing macros
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 
 Package todonotes Warning: The length marginparwidth is less than 2cm and will 
 most likely cause issues with the appearance of inserted todonotes. The issue c
@@ -2014,24 +846,11 @@ loading the todonotes package. on input line 9.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-Package biblatex Info: Input encoding 'utf8' detected.
-Package biblatex Info: Automatic encoding selection.
-(biblatex)             Assuming data encoding 'utf8'.
-Package biblatex Info: Input encoding 'utf8' specified.
-Package biblatex Info: Data encoding 'utf8' specified.
-=======
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
-("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\lbx\english.lbx"
-=======
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
 ("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\lbx\engl
 ish.lbx"
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
 )
 Package biblatex Info: No input encoding detected.
@@ -2040,22 +859,12 @@ Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'ascii'.
 Package biblatex Info: Input encoding 'ascii' specified.
 Package biblatex Info: Data encoding 'ascii' specified.
-<<<<<<< HEAD
->>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
-=======
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 (biblatex)             No need to reencode data.
 \openout4 = `AnnotatedBibliography-blx.bib'.
 
 Package biblatex Info: Trying to load bibliographic data...
-<<<<<<< HEAD
-<<<<<<< HEAD
-Package biblatex Info: ... file 'AnnotatedBibliography.bbl' not found.
-No file AnnotatedBibliography.bbl.
-=======
 Package biblatex Info: ... file 'AnnotatedBibliography.bbl' found.
-
-(AnnotatedBibliography.bbl
+ (AnnotatedBibliography.bbl
 
 Package biblatex Warning: BibTeX reported the following issues
 (biblatex)                with 'Gerontakos2007':
@@ -2067,88 +876,55 @@ Package biblatex Warning: BibTeX reported the following issues
 (biblatex)                - Invalid format of field 'month'.
 
 )
->>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
-=======
-Package biblatex Info: ... file 'AnnotatedBibliography.bbl' not found.
-
-No file AnnotatedBibliography.bbl.
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 Package biblatex Info: Reference section=0 on input line 9.
 Package biblatex Info: Reference segment=0 on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 13.
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-LaTeX Warning: Citation 'Dolan2016' on page 1 undefined on input line 18.
-
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 18.
-
-LaTeX Warning: Citation 'Gerontakos2007' on page 1 undefined on input line 24.
-
-
-LaTeX Warning: Citation 'Portman2009' on page 1 undefined on input line 25.
-
-
-LaTeX Warning: Citation 'Nan2013' on page 1 undefined on input line 26.
-
-
-LaTeX Warning: Citation 'Gonzalez' on page 1 undefined on input line 29.
-
-[1
-
-{C:/Users/aohanna/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-
-LaTeX Warning: Citation 'Wilson-strain-gage' on page 2 undefined on input line 
-30.
-
-
-LaTeX Warning: Citation 'Hubova2019' on page 2 undefined on input line 32.
-
-
-LaTeX Warning: Citation 'Yan2009' on page 2 undefined on input line 34.
-
-
-LaTeX Warning: Citation 'robert2012' on page 2 undefined on input line 37.
-
-
-LaTeX Warning: Empty bibliography on input line 47.
-=======
-
-LaTeX Warning: Citation 'Dolan2016' on page 1 undefined on input line 19.
-
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 19.
-
-LaTeX Warning: Citation 'Gerontakos2007' on page 1 undefined on input line 25.
-
-
-LaTeX Warning: Citation 'Portman2009' on page 1 undefined on input line 27.
-
-
-LaTeX Warning: Citation 'Nan2013' on page 1 undefined on input line 29.
-
-
-LaTeX Warning: Citation 'Gonzalez' on page 1 undefined on input line 31.
-
-[1
+ [1
 
 {C:/Users/Cam PC/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[2]
 
-LaTeX Warning: Citation 'Wilson-strain-gage' on page 2 undefined on input line 
-33.
+LaTeX Warning: Citation 'robert2012' on page 3 undefined on input line 49.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+
+LaTeX Warning: Citation 'Rudnicki2004' on page 3 undefined on input line 54.
 
 
-LaTeX Warning: Citation 'Rudnicki2004' on page 2 undefined on input line 35.
+LaTeX Warning: Citation 'Rudnicki2004' on page 3 undefined on input line 56.
 
 
-LaTeX Warning: Empty bibliography on input line 38.
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
+LaTeX Warning: Citation 'Guilbaud1957' on page 3 undefined on input line 58.
 
-[2] (AnnotatedBibliography.aux)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 62.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 62.
+("C:\Users\Cam PC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 62.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 62.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 62.
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ¾ in font ptmr7t!
+ [3]
+Overfull \hbox (9.5365pt too wide) in paragraph at lines 63--63
+\OT1/ptm/m/it/12 sure-ment and In-stru-ments \OT1/ptm/m/n/12 (2009), pp. 3302{3
+305. \OT1/ptm/m/sc/12 doi\OT1/ptm/m/n/12 : $\OT1/pcr/m/n/12 10 . 1109 / ICEMI .
+ 2009 . 5274309$\OT1/ptm/m/n/12 . 
+ []
+
+[4] (AnnotatedBibliography.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -2157,82 +933,27 @@ Package biblatex Warning: Please (re)run BibTeX on the file(s):
 (biblatex)                AnnotatedBibliography
 (biblatex)                and rerun LaTeX afterwards.
 
-<<<<<<< HEAD
-=======
- [1
-
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 37.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 37.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 37.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 37.
- [2] [3]
-(AnnotatedBibliography.aux)
->>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
-=======
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
 Package logreq Info: Writing requests to 'AnnotatedBibliography.run.xml'.
 \openout1 = `AnnotatedBibliography.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
-<<<<<<< HEAD
- 19952 strings out of 492484
- 403517 string characters out of 3120695
- 803653 words of memory out of 3000000
- 23990 multiletter control sequences out of 15000+200000
- 11232 words of font info for 26 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 68i,7n,83p,1055b,1148s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/aohanna/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.e
-nc}<C:/Users/aohanna/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/ut
-mb8a.pfb><C:/Users/aohanna/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/ti
-mes/utmr8a.pfb>
-Output written on AnnotatedBibliography.pdf (2 pages, 43097 bytes).
-PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
-=======
- 19615 strings out of 493324
- 390856 string characters out of 3139067
- 796179 words of memory out of 3000000
- 22837 multiletter control sequences out of 15000+200000
- 18100 words of font info for 41 fonts, out of 3000000 for 9000
+ 19633 strings out of 493323
+ 397335 string characters out of 3129579
+ 796451 words of memory out of 3000000
+ 22855 multiletter control sequences out of 15000+200000
+ 19726 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,7n,80p,1055b,1276s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
-KTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/u
-tmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on AnnotatedBibliography.pdf (3 pages, 68129 bytes).
-PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
->>>>>>> ce20c3b8f8e25196e01a970fa5009bc239dc5e16
-=======
- 19514 strings out of 493323
- 394611 string characters out of 3129579
- 795050 words of memory out of 3000000
- 22754 multiletter control sequences out of 15000+200000
- 11232 words of font info for 26 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 62i,7n,80p,1055b,1148s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Cam PC/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.en
-c}<C:/Users/Cam PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb
-8a.pfb><C:/Users/Cam PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times
-/utmr8a.pfb>
-Output written on AnnotatedBibliography.pdf (2 pages, 41604 bytes).
+c}<C:/Users/Cam PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/courier/uc
+rr8a.pfb><C:/Users/Cam PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/tim
+es/utmb8a.pfb><C:/Users/Cam PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
+w/times/utmr8a.pfb><C:/Users/Cam PC/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/urw/times/utmri8a.pfb>
+Output written on AnnotatedBibliography.pdf (4 pages, 77013 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
->>>>>>> b3d41c0207c3687697536a69791c184ee0c77082
+ 59 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  109 words of extra memory for PDF output out of 10000 (max. 10000000)
 
